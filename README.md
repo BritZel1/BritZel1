@@ -3,12 +3,13 @@ Eu sou Britney Nascimento, atualmente sou estudante de ciência da computação 
 
  <img align="right" alt="zel-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/6e3a7d18c30b1b90dc22dee2c2416547.gif">
 
-👻👻 Voltando a utilizar o GitHub depois de um tempo👻👻
+👻 Voltando a utilizar o GitHub depois de um tempo👻
+
 ### 😄 Pronouns:
  Ela/Dela - She/Her
  
 ### 🌱  No momento:
-Hoje em dia estou estudando JAVA ☕, interesse em Springboot.
+-> Hoje em dia estou estudando JAVA ☕, interesse em Springboot.
 
 ### Linguagens mais utilizadas no momento:
 <div align="center">
