@@ -7,9 +7,6 @@ Eu sou Britney Nascimento, atualmente sou estudante de ciência da computação 
 
 ### 😄 Pronouns:
  Ela/Dela - She/Her
- 
-### 🌱  No momento:
--> Hoje em dia estou estudando JAVA ☕, interesse em Springboot.
 
 ### Linguagens mais utilizadas no momento:
 <div align="center">
