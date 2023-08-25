@@ -1,5 +1,5 @@
 ## Hi there 👋
-Eu sou Britney Nascimento, atualmente sou estudante de ciência da computação na Universidade Estadual da Paraíba (UEPB).
+Eu sou Britney Nascimento, atualmente sou desenvolvedora back-end com JAVA e front-end com Angular, estudante de ciência da computação na Universidade Estadual da Paraíba (UEPB). 
 
  <img align="right" alt="zel-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/6e3a7d18c30b1b90dc22dee2c2416547.gif">
 
